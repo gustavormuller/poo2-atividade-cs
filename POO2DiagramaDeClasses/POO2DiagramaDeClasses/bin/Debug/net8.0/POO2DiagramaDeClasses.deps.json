@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "POO2DiagramaDeClasses/1.0.0": {
+        "runtime": {
+          "POO2DiagramaDeClasses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POO2DiagramaDeClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

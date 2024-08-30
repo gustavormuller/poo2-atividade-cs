@@ -1,0 +1,14 @@
+C:\Users\Gustavo Müller\source\repos\POO2DiagramaDeClasses\POO2DiagramaDeClasses\bin\Debug\net8.0\POO2DiagramaDeClasses.exe
+C:\Users\Gustavo Müller\source\repos\POO2DiagramaDeClasses\POO2DiagramaDeClasses\bin\Debug\net8.0\POO2DiagramaDeClasses.deps.json
+C:\Users\Gustavo Müller\source\repos\POO2DiagramaDeClasses\POO2DiagramaDeClasses\bin\Debug\net8.0\POO2DiagramaDeClasses.runtimeconfig.json
+C:\Users\Gustavo Müller\source\repos\POO2DiagramaDeClasses\POO2DiagramaDeClasses\bin\Debug\net8.0\POO2DiagramaDeClasses.dll
+C:\Users\Gustavo Müller\source\repos\POO2DiagramaDeClasses\POO2DiagramaDeClasses\bin\Debug\net8.0\POO2DiagramaDeClasses.pdb
+C:\Users\Gustavo Müller\source\repos\POO2DiagramaDeClasses\POO2DiagramaDeClasses\obj\Debug\net8.0\POO2DiagramaDeClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Müller\source\repos\POO2DiagramaDeClasses\POO2DiagramaDeClasses\obj\Debug\net8.0\POO2DiagramaDeClasses.AssemblyInfoInputs.cache
+C:\Users\Gustavo Müller\source\repos\POO2DiagramaDeClasses\POO2DiagramaDeClasses\obj\Debug\net8.0\POO2DiagramaDeClasses.AssemblyInfo.cs
+C:\Users\Gustavo Müller\source\repos\POO2DiagramaDeClasses\POO2DiagramaDeClasses\obj\Debug\net8.0\POO2DiagramaDeClasses.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Müller\source\repos\POO2DiagramaDeClasses\POO2DiagramaDeClasses\obj\Debug\net8.0\POO2DiagramaDeClasses.dll
+C:\Users\Gustavo Müller\source\repos\POO2DiagramaDeClasses\POO2DiagramaDeClasses\obj\Debug\net8.0\refint\POO2DiagramaDeClasses.dll
+C:\Users\Gustavo Müller\source\repos\POO2DiagramaDeClasses\POO2DiagramaDeClasses\obj\Debug\net8.0\POO2DiagramaDeClasses.pdb
+C:\Users\Gustavo Müller\source\repos\POO2DiagramaDeClasses\POO2DiagramaDeClasses\obj\Debug\net8.0\POO2DiagramaDeClasses.genruntimeconfig.cache
+C:\Users\Gustavo Müller\source\repos\POO2DiagramaDeClasses\POO2DiagramaDeClasses\obj\Debug\net8.0\ref\POO2DiagramaDeClasses.dll

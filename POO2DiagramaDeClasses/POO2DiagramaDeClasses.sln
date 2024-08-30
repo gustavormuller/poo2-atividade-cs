@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO2DiagramaDeClasses", "POO2DiagramaDeClasses\POO2DiagramaDeClasses.csproj", "{4DDA78D8-B1D5-4A68-97A7-83927716B6B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DDA78D8-B1D5-4A68-97A7-83927716B6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DDA78D8-B1D5-4A68-97A7-83927716B6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DDA78D8-B1D5-4A68-97A7-83927716B6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DDA78D8-B1D5-4A68-97A7-83927716B6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02F79783-A00D-4E5F-BDD7-C0DEC3E30D49}
+	EndGlobalSection
+EndGlobal
